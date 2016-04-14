@@ -6,6 +6,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("elipse集成github");
 		System.out.println("更新文件");
+		System.out.println("clone a repository and update file");
 	}
 
 }
